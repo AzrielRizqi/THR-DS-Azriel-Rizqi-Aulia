@@ -1,1 +1,1 @@
-## THR Structure Data
+## THR Data Structure
